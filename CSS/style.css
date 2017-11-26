@@ -33,3 +33,16 @@
 .content-height { height:600px;}
 .big-footer-top { height:250px;}
 .footer-height { height:40px;}
+
+.main-ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.main-ul li P{
+    float: left;
+    width: 120px;
+    border: 1px solid gray;
+
+}
